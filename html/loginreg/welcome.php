@@ -1,0 +1,6 @@
+<html>
+<title>frameset</title>
+<frameset cols="25%,75%">
+	<frame name="Menu" src="links.html">
+	<frame name="Main" src="welcome.html">
+</frameset>
